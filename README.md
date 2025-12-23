@@ -1,5 +1,5 @@
 # Pygame Meteor Dodger  
-The Meteor Dodger is a game created using PyGame, where you control a Mars rover to dodge meteors. This project was created as part of a hands-on workshop at USF’s largest hackathon, Hackabull 2025. Learn more about Hackabull [here](https://www.hackabull.org/). 
+The Meteor Dodger is a game created using Pygame, where you control a Mars rover to dodge meteors. This project was created as part of a workshop hosted by Robobulls at USF’s largest hackathon, Hackabull 2025. Learn more about Hackabull [here](https://www.hackabull.org/). 
 
 
 ## Description  
